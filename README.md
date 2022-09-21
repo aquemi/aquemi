@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @aquemi
-- 👀 I’m interested in developing Health Informatics applications
-- 🌱 I’m currently learning Data Science for medical images
-- 💞️ I’m looking to collaborate on challenges
+- 👋 Hello, welcome! I'm @aquemi.
+- 🌱 I’m currently learning Data Science.
+- 💞️ I’m looking to collaborate on challenges.
 - 📫 Mail me: <camilaaquemi@gmail.com>
 
 <!---
